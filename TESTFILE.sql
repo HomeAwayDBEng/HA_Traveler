@@ -1,3 +1,4 @@
 -- TEST FILE.
 -- Extra line.
 -- Another line.
+-- New line.
